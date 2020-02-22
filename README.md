@@ -1,6 +1,6 @@
-### a simple schema creator used with psycopg2
+# Schema creator used with psycopg2
 
-## Example Usage
+### Example Usage
 
 ```python
 from create_schema import create_schema
