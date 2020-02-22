@@ -1,4 +1,4 @@
-# Schema creator used with psycopg2
+## Schema creator used with psycopg2
 
 ### Example Usage
 
@@ -46,3 +46,7 @@ tables = {
 def main():
     create_schema(tables, connection_string)
 ```
+
+### dependancies:
+
+- psycopg2
